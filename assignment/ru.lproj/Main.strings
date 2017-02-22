@@ -1,0 +1,60 @@
+/* Class = "UIButton"; accessibilityLabel = "Buy"; ObjectID = "2Ww-PU-KFB"; */
+"2Ww-PU-KFB.accessibilityLabel" = "купить";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "2Ww-PU-KFB"; */
+"2Ww-PU-KFB.normalTitle" = "купить";
+
+/* Class = "UIImageView"; accessibilityHint = "Shoe Image"; ObjectID = "6LZ-aV-iu3"; */
+"6LZ-aV-iu3.accessibilityHint" = "Обувь изображения";
+
+/* Class = "UIImageView"; accessibilityLabel = "Original grey shoe"; ObjectID = "6LZ-aV-iu3"; */
+"6LZ-aV-iu3.accessibilityLabel" = "Оригинальный серый обуви";
+
+/* Class = "UIImageView"; accessibilityHint = "Image"; ObjectID = "Az7-lP-RQE"; */
+"Az7-lP-RQE.accessibilityHint" = "изображение";
+
+/* Class = "UIImageView"; accessibilityLabel = "Gray Shoe Big image"; ObjectID = "Az7-lP-RQE"; */
+"Az7-lP-RQE.accessibilityLabel" = "Gray Shoe Big изображение";
+
+/* Class = "UILabel"; text = "Adidas Shoe"; ObjectID = "Lng-zG-fae"; */
+"Lng-zG-fae.text" = "Adidas изображение";
+
+/* Class = "UIImageView"; accessibilityHint = "Shoe Image"; ObjectID = "P2P-hb-9nG"; */
+"P2P-hb-9nG.accessibilityHint" = "Shoe изображение";
+
+/* Class = "UIImageView"; accessibilityLabel = "Second red shoe"; ObjectID = "P2P-hb-9nG"; */
+"P2P-hb-9nG.accessibilityLabel" = "Second red shoe";
+
+/* Class = "UIButton"; accessibilityLabel = "Like"; ObjectID = "ZEs-sQ-Usu"; */
+"ZEs-sQ-Usu.accessibilityLabel" = "Лайк";
+
+/* Class = "UIButton"; normalTitle = "Like"; ObjectID = "ZEs-sQ-Usu"; */
+"ZEs-sQ-Usu.normalTitle" = "Лайк";
+
+/* Class = "UILabel"; text = "Engr 596 Special Edition"; ObjectID = "bur-vW-CMZ"; */
+"bur-vW-CMZ.text" = "Энгр 596 специальный выпуск";
+
+/* Class = "UIImageView"; accessibilityHint = "Shoe Image"; ObjectID = "pbh-bK-7ns"; */
+"pbh-bK-7ns.accessibilityHint" = "Shoe Image";
+
+/* Class = "UIImageView"; accessibilityLabel = "White shoe"; ObjectID = "pbh-bK-7ns"; */
+"pbh-bK-7ns.accessibilityLabel" = "White shoe";
+
+/* Class = "UIImageView"; accessibilityHint = "Shoe Image"; ObjectID = "sY7-zR-Joj"; */
+"sY7-zR-Joj.accessibilityHint" = "Shoe Image";
+
+/* Class = "UIImageView"; accessibilityLabel = "Red Shoe"; ObjectID = "sY7-zR-Joj"; */
+"sY7-zR-Joj.accessibilityLabel" = "Red Shoe";
+
+/* Class = "UILabel"; accessibilityHint = "Price"; ObjectID = "tEB-pG-ROg"; */
+"tEB-pG-ROg.accessibilityHint" = "Цена";
+
+/* Class = "UILabel"; text = "$ 100.00"; ObjectID = "tEB-pG-ROg"; */
+"tEB-pG-ROg.text" = "$ 100.00";
+
+/* Class = "UIImageView"; accessibilityHint = "Shoe Image"; ObjectID = "xV9-vX-aaG"; */
+"xV9-vX-aaG.accessibilityHint" = "Shoe Image";
+
+/* Class = "UIImageView"; accessibilityLabel = "Grey shoe 2"; ObjectID = "xV9-vX-aaG"; */
+"xV9-vX-aaG.accessibilityLabel" = "Grey shoe 2";
+
